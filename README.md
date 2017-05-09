@@ -14,8 +14,6 @@ If you are using e.g a Linux package manager, or MacPorts, there are PyQt packag
 
 ### Documentation
 
-In general, the best documentation is the Qt (not PyQt) documentation:
-
-    http://doc.qt.io/qt-5/
+In general, the best documentation is the Qt (not PyQt) documentation: http://doc.qt.io/qt-5/
 
 We will take a look at some of the pages during the tutorial.
