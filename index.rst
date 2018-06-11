@@ -19,6 +19,7 @@ over to the `GitHub repository <https://github.com/astrofrog/pyqt-tutorial>`_!
    1.hello
    2.button
    3.layout
+   4.updating_gui
 
 
 Indices and tables
