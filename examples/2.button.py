@@ -1,12 +1,11 @@
 from qtpy.QtWidgets import QApplication, QPushButton
 
-
-def say_hello(event):
-    print('Hello, world!')
-
-
 # Initialize application
 app = QApplication([])
+
+# Define a function to connect to the button
+def say_hello(event):
+    print('Hello, world!')
 
 # Create button widget and connect to 'say_hello'
 button = QPushButton('Say hello')

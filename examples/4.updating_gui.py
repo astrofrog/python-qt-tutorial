@@ -1,5 +1,5 @@
-from qtpy.QtWidgets import QApplication, QLabel, QWidget, QVBoxLayout, QPushButton
-
+from qtpy.QtWidgets import (QApplication, QLabel, QWidget, QVBoxLayout,
+                            QPushButton)
 
 # Initialize application
 app = QApplication([])
@@ -11,7 +11,7 @@ def say_hello(event):
     label.setText('Hello, world!')
 
 # Create button
-button = QPushButton('test')
+button = QPushButton('Press me!')
 button.clicked.connect(say_hello)
 
 # Create layout and add widgets
