@@ -8,7 +8,8 @@ the `QtPy <https://github.com/spyder-ide/qtpy>`_ package which provides a way to
 use whatever Python Qt package is available.
 
 This is not meant to be a completely exhaustive tutorial but just a place to
-start if you've never done Qt development before.
+start if you've never done Qt development before, and it will be expanded over
+time.
 
 .. toctree::
    :maxdepth: 1

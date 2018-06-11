@@ -12,7 +12,7 @@ you should always set up a ``QApplication`` first)::
   button = QPushButton('Say hello')
 
 Qt widgets often have different kinds of *events* you can connect to. An event
-is just something that happens, for example but not limited to something the
+is just something that happens for example (but not limited to) something the
 user does. For instance, ``button`` has an event called ``clicked`` that
 gets triggered when the user clicks on the button. The normal way to use events
 is to write functions that can then do something as a result of the event
