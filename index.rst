@@ -10,9 +10,6 @@ use whatever Python Qt package is available.
 This is not meant to be a completely exhaustive tutorial but just a place to
 start if you've never done Qt development before.
 
-If you are interested in helping maintain these pages and/or add new pages, head
-over to the `GitHub repository <https://github.com/astrofrog/pyqt-tutorial>`_!
-
 .. toctree::
    :maxdepth: 1
 
@@ -22,10 +19,5 @@ over to the `GitHub repository <https://github.com/astrofrog/pyqt-tutorial>`_!
    3.layout
    4.updating_gui
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+If you are interested in helping maintain these pages and/or add new pages, head
+over to the `GitHub repository <https://github.com/astrofrog/pyqt-tutorial>`_!
