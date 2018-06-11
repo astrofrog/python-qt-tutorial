@@ -1,19 +1,5 @@
-## Qt Tutorial for #pyastro17
+## Python Qt Tutorial
 
-The following files are for the Qt tutorial at Python in Astronomy 2017.
+This is the source code for a tutorial for using Qt from Python. It is a work in progress, and I welcome any contributions (fixes or additions).
 
-### Installing
-
-To get set up for the tutorial, if you are using conda:
-
-    conda install pyqt qtpy
-
-If you are using e.g a Linux package manager, or MacPorts, there are PyQt packages in there. Be sure to also install QtPy:
-
-    pip install qtpy
-
-### Documentation
-
-In general, the best documentation is the Qt (not PyQt) documentation: http://doc.qt.io/qt-5/
-
-We will take a look at some of the pages during the tutorial.
+The tutorial can be found at https://python-qt-tutorial.readthedocs.io
